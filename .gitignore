@@ -1,3 +1,6 @@
+# Custom for each venv
+venv_recipe
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
