@@ -1,0 +1,4 @@
+black==22.1.0
+Django==2.1.15
+djangorestframework==3.9.4
+psycopg2-binary==2.9.3
